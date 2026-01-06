@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/yourusername?label=Repositories&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/jarvis-the-og?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/jarvis-the-og?label=Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/jarvis-the-og?label=Repositories&style=for-the-badge" />
 </p>
+
 
 ---
 
@@ -52,11 +53,11 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jarvis-the-og&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=jarvis-the-og&theme=tokyonight" />
 </p>
 
 ---

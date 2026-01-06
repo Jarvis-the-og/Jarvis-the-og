@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&duration=4000&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+Yatin!;Cybersecurity+Enthusiast;Tech+Explorer;Aspiring+Ethical+Hacker&color=20E4C7%2CF20CE0%2CFFA500%2C00FFFF" alt="Animated intro" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&duration=4000&center=true&vCenter=true&width=800&lines=Engineering+systems%2C+not+just+code;Building+Jarvis+—+an+AI+Assistant;MERN+%7C+Python+%7C+AI+%7C+Systems+Thinking&color=00FFD1" />
 </p>
 

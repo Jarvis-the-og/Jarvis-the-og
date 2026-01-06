@@ -43,11 +43,6 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,flask,nextjs" />
 </p>
 
-### AI & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,vscode" />
-</p>
-
 ---
 
 ## GitHub Activity

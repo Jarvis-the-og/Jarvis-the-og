@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&duration=4000&center=true&vCenter=true&width=800&lines=Engineering+systems%2C+not+just+code;Building+Jarvis+—+an+AI+Assistant;MERN+%7C+Python+%7C+AI+%7C+Systems+Thinking&color=00FFD1" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/followers/jarvis-the-og?label=Followers&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/jarvis-the-og?label=Stars&style=for-the-badge" />
   <img src="https://img.shields.io/github/repos/jarvis-the-og?label=Repositories&style=for-the-badge" />

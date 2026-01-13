@@ -4,7 +4,7 @@
 
 <p align="center">
 <!--  <img src="https://img.shields.io/github/followers/jarvis-the-og?label=Followers&style=for-the-badge" />  --->
-  <img src="https://img.shields.io/github/stars/jarvis-the-og?label=Stars&style=for-the-badge" />
+<!--  <img src="https://img.shields.io/github/stars/jarvis-the-og?label=Stars&style=for-the-badge" /> --->
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/jarvis-the-og&query=$.public_repos&label=Repositories&style=for-the-badge" />
 </p>
 

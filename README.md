@@ -15,7 +15,7 @@
 
 - 🧠 **Jarvis** — a modular AI assistant with voice commands, automation, and system-level control  
 - 🌐 **Full-Stack Applications** using MERN with authentication, APIs, and clean architecture  
-- 🤖 **AI & ML Systems** — NLP, predictions, automation pipelines, model integration  
+- 🤖 **IoT-powered Systems** — extensvely using microcontrollers and sensors to build real world problem solving solutions  
 - ⚙️ **Backend Services** — Node.js, Flask, REST APIs, database design  
 - 🔐 Security-aware development with a focus on scalable, maintainable code  
 

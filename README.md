@@ -48,7 +48,7 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yatinannam&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jarvis-the-og&theme=radical" />
 </p>
 
 <p align="center">

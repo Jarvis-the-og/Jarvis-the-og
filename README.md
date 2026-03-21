@@ -55,11 +55,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jarvis-the-og&theme=radical" />
 </p>
 
-<!--
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jarvis-the-og&theme=tokyonight" />
 </p>
--->
+
 ---
 
 ## Vision

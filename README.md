@@ -32,11 +32,7 @@
 ---
 
 ## 🎯 Featured Projects
-<div align="center">
-<a href="https://github.com/jarvis-the-og/RFID-based-Attendance-Logging-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarvis-the-og&repo=RFID-based-Attendance-Logging-System&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFID-based-Attendance-Logging-System"></a>
-<a href="https://github.com/jarvis-the-og/budget-tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarvis-the-og/budget-tracker&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="expense tracker"></a>
-<a href="https://github.com/jarvis-the-og/J.A.R.V.I.S."><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarvis-the-og/J.A.R.V.I.S.l&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="J.A.R.V.I.S."></a>
-</div>
+<div align="center"> <a href="https://github.com/jarvis-the-og/RFID-based-Attendance-Logging-System"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarvis-the-og&repo=RFID-based-Attendance-Logging-System&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFID Attendance System"> </a> <a href="https://github.com/Jarvis-the-og/budget-tracker"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jarvis-the-og&repo=budget-tracker&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="Budget Tracker"> </a> <a href="https://github.com/Jarvis-the-og/J.A.R.V.I.S."> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jarvis-the-og&repo=J.A.R.V.I.S.&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="J.A.R.V.I.S AI Assistant"> </a> </div>
 
 ---
 

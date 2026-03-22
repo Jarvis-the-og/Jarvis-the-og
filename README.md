@@ -32,7 +32,27 @@
 ---
 
 ## 🎯 Featured Projects
-<div align="center"> <a href="https://github.com/jarvis-the-og/RFID-based-Attendance-Logging-System"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarvis-the-og&repo=RFID-based-Attendance-Logging-System&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFID Attendance System"> </a> <a href="https://github.com/Jarvis-the-og/budget-tracker"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jarvis-the-og&repo=budget-tracker&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="Budget Tracker"> </a> <a href="https://github.com/Jarvis-the-og/J.A.R.V.I.S."> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jarvis-the-og&repo=J.A.R.V.I.S.&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="J.A.R.V.I.S AI Assistant"> </a> </div>
+<div align="center">
+
+<a href="https://github.com/jarvis-the-og/RFID-based-Attendance-Logging-System">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarvis-the-og&repo=RFID-based-Attendance-Logging-System&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFID Attendance System">
+</a>
+<p><b>RFID Attendance System</b><br>
+Automated attendance tracking using RFID technology with real-time logging and reduced manual errors.</p>
+
+<a href="https://github.com/Jarvis-the-og/budget-tracker">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jarvis-the-og&repo=budget-tracker&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="Budget Tracker">
+</a>
+<p><b>Budget Tracker</b><br>
+Personal finance app to manage expenses, track income, and visualize spending habits effectively.</p>
+
+<a href="https://github.com/Jarvis-the-og/J.A.R.V.I.S.">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jarvis-the-og&repo=J.A.R.V.I.S.&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="J.A.R.V.I.S AI Assistant">
+</a>
+<p><b>J.A.R.V.I.S</b><br>
+AI-powered virtual assistant with voice commands and task automation inspired by Iron Man.</p>
+
+</div>
 
 ---
 

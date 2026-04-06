@@ -58,9 +58,9 @@
 
 <p align="center">
   <!-- Optional: Top Languages Card -->
-  <!--
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis-the-og&layout=donut&theme=react&bg_color=00000000&hide_border=true" />
-  -->
+
 </p>
 
 <p align="center">

@@ -53,7 +53,7 @@
 ## GitHub Activity
 
 <p align="center">
-  <table>
+  
     <tr>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=jarvis-the-og&theme=radical" />
@@ -64,7 +64,6 @@
         </a>
       </td>
     </tr> --->
-  </table>
 </p>
 
 <p align="center">

@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/b2930144-3f24-41d0-982c-7455d26c225d" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/REPLACE_WITH_YOUR_IMAGE_ID/image.png" alt="Credly Badge" width="150" />
+    <img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Credly Badge" width="150" />
   </a>
 
   <!-- Example of a second badge — duplicate this block for each new one

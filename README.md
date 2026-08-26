@@ -44,8 +44,18 @@
     <img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Credly Badge" width="150" />
   </a>
 
-  <a href="https://www.credly.com/badges/b2930144-3f24-41d0-982c-7455d26c225d" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Credly Badge" width="150" />
+<p align="center">
+  <a href="https://www.credly.com/badges/f53179d5-7b5b-471c-9759-3813a6b25db8" target="_blank">
+    <img 
+      src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" 
+      alt="ISC2 Badge" 
+      width="150"
+      style="background-color: white; padding: 5px; border-radius: 5px;"
+    />
+  </a>
+
+  <a href="https://www.credly.com/badges/f9c6f2de-8070-4aee-99e2-fcb9a53095f3" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Intro to Cybersecurity Badge" width="150" />
   </a>
 
  <a href="https://www.credly.com/badges/b2930144-3f24-41d0-982c-7455d26c225d" target="_blank">
@@ -56,6 +66,7 @@
     style="background-color: white; padding: 5px; border-radius: 5px;"
   />
 </a>
+</p>
 
   <!-- Example of a second badge — duplicate this block for each new one
   <a href="https://www.credly.com/badges/ANOTHER_BADGE_ID" target="_blank">

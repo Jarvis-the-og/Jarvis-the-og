@@ -48,12 +48,20 @@
     <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Credly Badge" width="150" />
   </a>
 
+  <a href="https://www.credly.com/badges/b2930144-3f24-41d0-982c-7455d26c225d" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Credly Badge" width="150" />
+  </a>
+
   <!-- Example of a second badge — duplicate this block for each new one
   <a href="https://www.credly.com/badges/ANOTHER_BADGE_ID" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/ANOTHER_IMAGE_ID/image.png" alt="Another Badge" width="150" />
   </a>
   -->
 </p>
+
+---
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f53179d5-7b5b-471c-9759-3813a6b25db8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 

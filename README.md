@@ -40,11 +40,6 @@
 -->
 
 <p align="center">
-  <a href="https://www.credly.com/badges/b2930144-3f24-41d0-982c-7455d26c225d" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Credly Badge" width="150" />
-  </a>
-
-<p align="center">
   <a href="https://www.credly.com/badges/f53179d5-7b5b-471c-9759-3813a6b25db8" target="_blank">
     <img 
       src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" 

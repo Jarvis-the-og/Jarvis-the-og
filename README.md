@@ -50,27 +50,31 @@
   </a>
 
   <a href="https://www.credly.com/badges/f9c6f2de-8070-4aee-99e2-fcb9a53095f3" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Intro to Cybersecurity Badge" width="150" />
+    <img 
+      src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" 
+      alt="Intro to Cybersecurity Badge" 
+      width="150"
+    />
   </a>
 
- <a href="https://www.credly.com/badges/b2930144-3f24-41d0-982c-7455d26c225d" target="_blank">
-  <img 
-    src="https://images.credly.com/size/680x680/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" 
-    alt="Credly Badge" 
-    width="150"
-    style="background-color: white; padding: 5px; border-radius: 5px;"
-  />
-</a>
-</p>
-
-  <!-- Example of a second badge — duplicate this block for each new one
-  <a href="https://www.credly.com/badges/ANOTHER_BADGE_ID" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/ANOTHER_IMAGE_ID/image.png" alt="Another Badge" width="150" />
+  <a href="https://www.credly.com/badges/b2930144-3f24-41d0-982c-7455d26c225d" target="_blank">
+    <img 
+      src="https://images.credly.com/size/680x680/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" 
+      alt="Credly Badge" 
+      width="150"
+      style="background-color: white; padding: 5px; border-radius: 5px;"
+    />
   </a>
-  -->
-</p>
 
----
+  <a href="https://www.credly.com/badges/b129a023-69fa-4f1a-a2d0-a47e295590b7" target="_blank">
+    <img 
+      src="https://images.credly.com/size/680x680/images/7615dc83-74f0-45ca-a9c0-a01d16dc7bb7/blob" 
+      alt="YOUR CERTIFICATION NAME" 
+      width="150"
+      style="background-color: white; padding: 5px; border-radius: 5px;"
+    />
+  </a>
+</p>
 
 ## 🎯 Featured Projects
 <div align="center">

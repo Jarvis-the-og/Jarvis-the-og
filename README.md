@@ -74,6 +74,15 @@
       style="background-color: white; padding: 5px; border-radius: 5px;"
     />
   </a>
+
+  <a href="https://www.credly.com/badges/136ef6d8-aff0-4e7f-812e-f6f0953f5aac" target="_blank">
+    <img 
+      src="YOUR_BADGE_IMAGE_URL" 
+      alt="YOUR CERTIFICATION NAME" 
+      width="150"
+      style="background-color: white; padding: 5px; border-radius: 5px;"
+    />
+  </a>
 </p>
 
 ## 🎯 Featured Projects

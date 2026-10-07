@@ -77,8 +77,8 @@
 
   <a href="https://www.credly.com/badges/136ef6d8-aff0-4e7f-812e-f6f0953f5aac" target="_blank">
     <img 
-      src="<img width="680" height="680" alt="image" src="https://github.com/user-attachments/assets/cffe5d75-13aa-41d0-a052-fd20827efa01" />" 
-      alt="YOUR CERTIFICATION NAME" 
+      src="https://images.credly.com/size/680x680/images/dc6a9e7e-69bc-44df-8bce-6c7f18587283/blob" 
+      alt="Red Hat System Administration II" 
       width="150"
       style="background-color: white; padding: 5px; border-radius: 5px;"
     />
